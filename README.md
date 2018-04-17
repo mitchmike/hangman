@@ -13,7 +13,7 @@ $sh playhangman.bash
 
 
 How to play:
--You can either play with a randomly generated word that comes from the file words.txt (feel free to add words to the file) or make your own word!
+\n-You can either play with a randomly generated word that comes from the file words.txt (feel free to add words to the file) or make your own word!
 -You get 9 guesses. If you run out a man dies... no pressure
 -Guess one letter at a time to eventually find the hidden word!
 
